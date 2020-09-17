@@ -13,7 +13,7 @@
   <body>
     
     <div class="container">
-        <h1>Daftar Data Warga</h1>
+        <h1>Daftar Data</h1>
         @yield('main')
     </div>
 
